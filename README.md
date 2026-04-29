@@ -4,6 +4,7 @@ A scalable and secure backend for a modern dating application built with **Node.
 
 ---
 
+Admin Hashboard : https://dating-app-dashboard-mu.vercel.app/
 ## 🚀 Features
 
 ### 🔐 Authentication
