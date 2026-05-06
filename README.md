@@ -5,48 +5,48 @@ A scalable and secure backend for a modern dating application built with **Node.
 ---
 
 Admin Dashboard : https://dating-app-dashboard-mu.vercel.app/
-## 🚀 Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 
 * JWT-based authentication
 * Secure login and registration
 * Password hashing with bcrypt
 * Protected routes middleware
 
-### 👤 User Management
+### User Management
 
 * User profile creation and update
 * Profile photos upload support
 * Bio, interests, and preferences
 * Account delete and deactivate option
 
-### 💞 Matching System
+### Matching System
 
 * Swipe (like/dislike) functionality
 * Mutual match detection
 * Smart matching based on preferences
 
-### 💬 Real-time Chat
+### Real-time Chat
 
 * One-to-one messaging between matched users
 * Socket.IO for real-time communication
 * Message history stored in MongoDB
 * Online/offline status tracking
 
-### 📍 Location Features
+### Location Features
 
 * Nearby user discovery
 * Distance-based filtering
 * Location preference settings
 
-### ❤️ Interaction System
+### Interaction System
 
 * Like and Super Like system
 * Block and report users
 * Unmatch functionality
 
-### 🔔 Notifications
+### Notifications
 
 * Real-time notifications
 * Match and message alerts
@@ -66,7 +66,7 @@ Admin Dashboard : https://dating-app-dashboard-mu.vercel.app/
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -82,7 +82,7 @@ src/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone repository
@@ -100,7 +100,7 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 ```
 PORT=5000
@@ -110,7 +110,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 🧪 Scripts
+## Scripts
 
 ```bash
 npm run dev       # Development server
@@ -121,7 +121,7 @@ npm run lint      # Lint code
 
 ---
 
-## 📡 API Features Overview
+## API Features Overview
 
 * RESTful API design
 * Authentication & authorization
@@ -130,7 +130,7 @@ npm run lint      # Lint code
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Designed for scalability and production use
 * Modular architecture for easy extension
@@ -138,6 +138,6 @@ npm run lint      # Lint code
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed for personal and educational use.
