@@ -54,7 +54,7 @@ Admin Dashboard : https://dating-app-dashboard-mu.vercel.app/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Node.js
 * Express.js
